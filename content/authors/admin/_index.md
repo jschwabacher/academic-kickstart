@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Physical Chemistry
+    institution: Northwestern University
+    year: 2020
+  - course: B.Sc. in Chemistry
+    institution: American University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,14 +42,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/schwabacher
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jschwabacher
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en
-- icon: google-scholar
-  icon_pack: ai
+- icon: researchgate
+  icon_pack: fab
   link: https://www.researchgate.net/profile/James_Schwabacher
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
