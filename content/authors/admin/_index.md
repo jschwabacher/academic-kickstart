@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a scientist and educator currently based in Chicago, IL.
 
 interests:
 - Artificial Intelligence
@@ -70,6 +70,8 @@ email: ""
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm a scientist and educator currently based in Chicago, IL.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My love of science education quietly revealed itself to me while I led my classmates through an AP Chemistry solutions set in high school. I had always been interested in science, which provides my innate curiosity with an outlet, but I had not expected to find fulfillment in teaching others. I discovered that I could satisfy my otherwise insatiable desire for growth by helping others grow in their understanding of themselves and the universe.
+
+I've followed the subtle pulls of curiosity and growth to Northwestern University, where I am a National Science Foundation Graduate Research Fellow and PhD candidate. 
