@@ -1,5 +1,9 @@
-# Research
-
+---
+title: "Research"  # Add a page title.
+summary: "J.C. Schwabacher's research projects."  # Add a page description.
+date: "2019-06-24T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
 ### Currently:
 Physical chemistry research for my thesis.
 
