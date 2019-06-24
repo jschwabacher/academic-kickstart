@@ -21,9 +21,10 @@ organizations:
 bio: I'm a scientist and educator currently based in Chicago, IL.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chemistry (Physical, Inorganic, Materials)
+- Nanotechnology
+- Science Education & Engagement
+- Community/Organizational Development
 
 education:
   courses:
