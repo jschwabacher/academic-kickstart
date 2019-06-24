@@ -42,11 +42,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# Teaching Philosophy
-
 My statement, in brief, is below. You can find the [full statement here](files/Schwabacher-James_Teaching-Statement_2018v1.pdf).
 
-I view the relationship between teachers and students as one that is dynamic and focused on student growth, yet responsive to the needs individual students. As I have transitioned from student to instructor, I have realized that teaching is an ongoing experiment. I used to believe that the best teaching practices were already known and being put to use. I have grown to understand, however, that, while the traditional lecture system may have worked for me, it does not work for all, and there are many more teaching practices to explore and enact in the classroom to benefit all students. I am always seeking to use teaching practices that benefit different student populations and provide opportunities for students to learn from their mistakes and misunderstandings.
+I view the relationship between teachers and students as one that is dynamic and focused on student growth. It is, at its best, responsive to the needs individual students. As I have transitioned from student to instructor, I have realized that teaching is an ongoing experiment. I used to believe that the best teaching practices were already known and being put to use. I have grown to understand, however, that, while the traditional lecture system may have worked for me, it does not work for all, and there are many more teaching practices to explore and enact in the classroom to benefit all students. I am always seeking to use teaching practices that benefit different student populations and provide opportunities for students to learn from their mistakes and misunderstandings.
 
 **I prepare students in my introductory courses for**:
 
