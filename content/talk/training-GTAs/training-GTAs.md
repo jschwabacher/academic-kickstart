@@ -1,6 +1,6 @@
 ---
 title: Collaboratively designing teaching assistant training programs to address institution-specific needs
-date: "2019-04-01"
+date: "2019-04-01T00:00:00Z"
 authors: ["admin"]
 draft: false
 location: Orlando, FL
