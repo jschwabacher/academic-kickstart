@@ -1,10 +1,11 @@
+---
 # Course title, summary, and position in the list.
 linktitle: Teaching
 summary: 
 weight: 1
 
 # Page metadata.
-title: Philosophy
+title: Teaching
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -16,5 +17,6 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   Teaching:
-    name: Philosophy
+    name: Teaching
     weight: 1
+---
