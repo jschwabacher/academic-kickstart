@@ -25,12 +25,25 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Roles include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Scientific Researcher
+  * Science Teacher
+  * Committee Treasurer
+  * Organization Co-founder
+  * Public Speaker
+  * Workshop Facilitator
+  * Community Builder
   """
+
+[[experience]]
+  title = "Research Scientist"
+  company = "Kadmon Pharmaceuticals, LLC."
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2015-06-01"
+  date_end = "2015-08-31"
+  description = """"""
 
 [[experience]]
   title = "B.Sc. in Chemistry"
@@ -39,6 +52,15 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2011-08-15"
   date_end = "2015-05-15"
+  description = """"""
+
+[[experience]]
+  title = "Scientific Researcher"
+  company = "Max Planck Institute for Polymer Research"
+  company_url = ""
+  location = "Mainz, Germany"
+  date_start = "2014-06-01"
+  date_end = "2014-08-31"
   description = """"""
 
 +++
