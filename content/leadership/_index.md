@@ -1,5 +1,4 @@
 # Leadership & Service
-General statement on leadership and service ...
 
 My desire to improve my department, build community, and support other's growth drives my decision to participate in leadership &amp; service opportunities.
 
