@@ -1,3 +1,13 @@
+---
+title: Lessons from My First Teaching-as-Research Project
+summary: Throughout the entire process–learning about TAR, reading the educational literature, designing my project, conducting my TAR experiment, and (finally) reporting my evidence-based conclusions–I learned five key points.
+date: "2018-09-19T00:00:00Z"
+
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+---
 As a scientist, I am trained to use my observations of the world to form and ruthlessly test hypotheses with the scientific method. Scientists, like myself, quickly grow comfortable with cycling through the scientific method in their research, but are rarely challenged to apply the scientific method to their teaching. While searching for a thoughtful method for gaining feedback from my students to improve my teaching abilities, I was introduced to teaching as research.
 
 [Teaching as research (TAR)](https://www.cirtl.net/about/core_ideas/teaching_as_research) uses the scientific method to test instructional methods. As the name implies, TAR calls on educators to make informed guesses on which teaching method is most effective–and then test their guess through a controlled experiment. In TAR projects, educators analyze the results of their experiments to draw conclusions about the teaching method being tested.
