@@ -1,6 +1,6 @@
 ---
 title: Lessons from My First Teaching-as-Research Project
-summary: Throughout the entire process–learning about TAR, reading the educational literature, designing my project, conducting my TAR experiment, and (finally) reporting my evidence-based conclusions–I learned five key points.
+summary: I learned five key points to enhance my teaching while conducting a TAR project.
 date: "2018-09-19T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
