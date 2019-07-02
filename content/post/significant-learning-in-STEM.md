@@ -8,15 +8,16 @@ share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 ---
-While facilitating learning communities for An Introduction to Evidence-Based Undergraduate STEM Teaching, I reinforce the principles of course design. This Center for the Integration of Research, Teaching, and Learning (CIRTL) course introduces educators and future faculty to backwards design, a process by which instructors plan their courses around their desired student outcomes.
+While facilitating learning communities for [An Introduction to Evidence-Based Undergraduate STEM Teaching](http://stemteachingcourse.org/), I reinforce the principles of course design. This [Center for the Integration of Research, Teaching, and Learning (CIRTL)](https://www.cirtl.net/) course introduces educators and future faculty to backwards design, a process by which instructors plan their courses around their desired student outcomes.
 
 Backwards design asks us, as instructors, to begin at the end of the course--what should students who complete our courses know and be able to accomplish? When we start using backwards design, or any learning-centered approaches, we are focusing specifically on what we want our students to gain.
 
-Engaging in course design with CIRTL has introduced me to the work of Dr. L. Dee Fink. Dr. Fink developed a Taxonomy of Significant Learning, which is a framework that helps us answer questions central to learning-centered (or student-centered) course design:
+Engaging in course design with CIRTL has introduced me to the work of [Dr. L. Dee Fink](http://finkconsulting.info/). Dr. Fink developed a Taxonomy of Significant Learning, which is a framework that helps us answer questions central to learning-centered (or student-centered) course design:
 
-  >What would you like the impact of this course to be on students 2–3 years after the course is over?
-  >What should distinguish students who have taken this course from those who have not?"
-  >-- Dr. L. Dee Fink, IDEA Paper #42
+>**What would you like the impact of this course to be on students 2–3 years after the course is over?
+>
+>What should distinguish students who have taken this course from those who have not?"
+>-- Dr. L. Dee Fink, [IDEA Paper #42](https://www.ideaedu.org/Portals/0/Uploads/Documents/IDEA%20Papers/IDEA%20Papers/Idea_Paper_42.pdf)**
 
 Dr. Fink's Taxonomy of Significant Learning comprises six areas: learning how to learn, foundational knowledge, application, integration, human dimension, and caring. These areas are not exclusive and, ideally, should intersect within our courses to foster our students' growth.
 
