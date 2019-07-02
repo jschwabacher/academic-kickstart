@@ -70,9 +70,5 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
-Hi, I'm a scientist and educator currently based in Chicago, IL.
-
-My love of science education quietly revealed itself to me while I led my classmates through an AP Chemistry solutions set in high school. I had always been interested in science, which provides my innate curiosity with an outlet, but I had not expected to find fulfillment in teaching others. I discovered that I could satisfy my otherwise insatiable desire for growth by helping others grow in their understanding of themselves and the universe.
-
-I've followed the subtle pulls of curiosity and growth to Northwestern University, where I am a National Science Foundation Graduate Research Fellow and PhD candidate. 
+My professional bio is below, but my personal bio can be found [here](/bio)
+James C. Schwabacher is a Chemistry PhD Candidate and NSF Graduate Research Fellow at Northwestern University. James' research experience spans materials, inorganic, and physical chemistry at the nanoscale. He applies his scientific thinking to improving science education through teaching-as-research projects. James remains heavily involved in designing and implementing the graduate teaching assistant training in his department. As the Co-founder of Northwestern's Chemistry Graduate Student Teachers and Treasurer of his department's Graduate Liaison Committee, James fosters communities and programming that break down institutional hierarchies to enact positive organizational change. 
