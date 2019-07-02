@@ -1,7 +1,7 @@
 ---
 title: What does significant learning look like in a STEM course?
 summary: I answer questions central to learning-centered (or student-centered) course design in STEM courses.
-date: "2018-09-19T00:00:00Z"
+date: "2019-01-22T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
