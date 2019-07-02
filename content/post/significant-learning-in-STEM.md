@@ -14,14 +14,14 @@ Backwards design asks us, as instructors, to begin at the end of the course--wha
 
 Engaging in course design with CIRTL has introduced me to the work of [Dr. L. Dee Fink](http://finkconsulting.info/). Dr. Fink developed a Taxonomy of Significant Learning, which is a framework that helps us answer questions central to learning-centered (or student-centered) course design:
 
->**What would you like the impact of this course to be on students 2–3 years after the course is over?
+>What would you like the impact of this course to be on students 2–3 years after the course is over?
 >
 >What should distinguish students who have taken this course from those who have not?"
->-- Dr. L. Dee Fink, [IDEA Paper #42](https://www.ideaedu.org/Portals/0/Uploads/Documents/IDEA%20Papers/IDEA%20Papers/Idea_Paper_42.pdf)**
+>-- Dr. L. Dee Fink, [IDEA Paper #42](https://www.ideaedu.org/Portals/0/Uploads/Documents/IDEA%20Papers/IDEA%20Papers/Idea_Paper_42.pdf)
 
 Dr. Fink's Taxonomy of Significant Learning comprises six areas: learning how to learn, foundational knowledge, application, integration, human dimension, and caring. These areas are not exclusive and, ideally, should intersect within our courses to foster our students' growth.
 
-I am a proponent of Dr. Fink's taxonomy because of how accessible it is, especially for instructors who are new to the educational literature. Using the significant learning framework, instructors can begin to outline their goals for their students and start the backwards design process. Since reading about significant learning in IDEA Paper #42, I have spent some time thinking about what significant learning might looks like for STEM undergraduate students. I have (loosely) sorted some of my learning objectives into different areas under Dr. Fink's taxonomy.
+I am a proponent of Dr. Fink's taxonomy because of how accessible it is, especially for instructors who are new to the educational literature. Using the significant learning framework, instructors can begin to outline their goals for their students and start the backwards design process. Since reading about significant learning in [IDEA Paper #42](https://www.ideaedu.org/Portals/0/Uploads/Documents/IDEA%20Papers/IDEA%20Papers/Idea_Paper_42.pdf), I have spent some time thinking about what significant learning might looks like for STEM undergraduate students. I have (loosely) sorted some of my learning objectives into different areas under Dr. Fink's taxonomy.
 
 ### Learning how to learn. Students should be able to…
 * search databases and references.
@@ -50,6 +50,6 @@ I am a proponent of Dr. Fink's taxonomy because of how accessible it is, especia
 
 This list is not exhaustive, but I hope it serves to get us thinking about our desired outcomes for our students.
 
-**The main takeaway.** IDEA Paper 42 is an excellent resource for implementing a learning-centered or backwards design approach to your courses. I recommend analyzing your desired student outcomes with Dr. L. Dee Fink's Taxonomy of Significant Learning, as explained in the paper.
+**The main takeaway.** [IDEA Paper 42](https://www.ideaedu.org/Portals/0/Uploads/Documents/IDEA%20Papers/IDEA%20Papers/Idea_Paper_42.pdf) is an excellent resource for implementing a learning-centered or backwards design approach to your courses. I recommend analyzing your desired student outcomes with Dr. L. Dee Fink's Taxonomy of Significant Learning, as explained in the paper.
 
-*IDEA is a nonprofit organization dedicated to improving student learning in higher education through analytics, resources, and advice. We are not affiliated and the thoughts expressed in this post are my own. More resources from IDEA can be found here.*
+*[IDEA](https://www.ideaedu.org/) is a nonprofit organization dedicated to improving student learning in higher education through analytics, resources, and advice. We are not affiliated and the thoughts expressed in this post are my own.*
