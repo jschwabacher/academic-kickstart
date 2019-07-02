@@ -1,4 +1,13 @@
+---
+title: What does significant learning look like in a STEM course?
+summary: ...
+date: "2018-09-19T00:00:00Z"
 
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+---
 While facilitating learning communities for An Introduction to Evidence-Based Undergraduate STEM Teaching, I reinforce the principles of course design. This Center for the Integration of Research, Teaching, and Learning (CIRTL) course introduces educators and future faculty to backwards design, a process by which instructors plan their courses around their desired student outcomes.
 
 Backwards design asks us, as instructors, to begin at the end of the course--what should students who complete our courses know and be able to accomplish? When we start using backwards design, or any learning-centered approaches, we are focusing specifically on what we want our students to gain.
