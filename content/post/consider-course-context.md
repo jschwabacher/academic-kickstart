@@ -1,4 +1,14 @@
-As part of [the backwards design process](significant-learning-in-stem), we generate a list of learning objectives for our students. Our initial lists usually include objectives that are difficult to assess, objectives that are impossible to measure, and lofty objectives that may be out of reach for our students. These first drafts of learning objectives are often very long — too long, in fact, for the time allotted to us — and can be overwhelming.
+---
+title: Consider course context to design effective classes.
+summary: Some of the challenges of producing learning objectives, specifically having too many objectives and objectives that are above reasonable difficulty, exist because we tend to generate learning objectives based solely on our desires as course instructors and with very little consideration of the overall course context.
+date: "2019-01-22T00:00:00Z"
+
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+---
+As part of [the backwards design process](/post/significant-learning-in-stem), we generate a list of learning objectives for our students. Our initial lists usually include objectives that are difficult to assess, objectives that are impossible to measure, and lofty objectives that may be out of reach for our students. These first drafts of learning objectives are often very long — too long, in fact, for the time allotted to us — and can be overwhelming.
 
 Some of the challenges of producing learning objectives, specifically having too many objectives and objectives that are above reasonable difficulty, exist because we tend to generate learning objectives based solely on our desires as course instructors and with very little consideration of the overall course context.
 
