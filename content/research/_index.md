@@ -10,7 +10,7 @@ Physical chemistry research for my thesis. My latest manuscript describes [the o
 I also contributed to ["An introduction to ratchets in chemistry and biology".](https://doi.org/10.1039/C7MH00062F)
 
 ### Previously:
-Immunology clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/articlesonrequest/AOR-pD5AIiMiYgI3BnI3vyFw), biomaterials for wastewater treatment, [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
+Immunology clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01503), biomaterials for wastewater treatment, [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
 
 <center>[Google Scholar Profile](https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en)</center>
 
