@@ -1,4 +1,13 @@
+---
+title: Online Resources from the American Association for the Advancement of Science 2019 Meeting
+summary: Social media extended the reach of the 2019 #AAASmtg.
+date: "2019-04-19T00:00:00Z"
 
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+---
 If you’re involved in science twitter at all, you may have noticed the #AAASmtg buzz last week. The [American Association for the Advancement of Science meeting](https://meetings.aaas.org/), with the theme of Science Transcending Boundaries, was held in Washington, DC from February 14–17, 2019. While I was not in attendance, I followed the impressive resources that were shared online through the #AAASmtg hashtag. I’ve highlighted some below:
 
 + (Guide) [Recommended Practices for Science Communication with Policymakers](https://www.american.edu/spa/scicomm/upload/Recommended-Practices-Booklet_V17-DIGITAL.pdf)
