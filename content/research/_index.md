@@ -7,7 +7,7 @@ type: "widget_page"  # Page type is a Widget Page
 ### Currently:
 Physical chemistry research for my thesis. My latest manuscript describes [the origin of the pH dependence of the emission of an aqueous quantum dot system](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b03619). (*Hitting a paywall? The full-text may be avialble [here](https://pubs.acs.org/articlesonrequest/AOR-vUemTZcSjtWyQRe658gU),* via *ACS Articles on Request.*)
 
-I also contributed to ["An introduction to ratchets in chemistry and biology".](https://doi.org/10.1039/C7MH00062F)
+I also contributed to ["An introduction to ratchets in chemistry and biology"](https://doi.org/10.1039/C7MH00062F) and ["Properties of Quantum Dots Coupled to Plasmons and Optical Cavities"](https://doi.org/10.1063/1.5124392).
 
 ### Previously:
 Immunology clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01503), biomaterials for wastewater treatment, [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
