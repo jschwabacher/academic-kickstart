@@ -2,7 +2,7 @@
 
 My love of science education quietly revealed itself to me while I led my classmates through an AP Chemistry solutions set in high school. I had always been interested in science, which provides my innate curiosity with an outlet, but I had not expected to find fulfillment in teaching others. I discovered that I could satisfy my otherwise insatiable desire for growth by helping others grow in their understanding of themselves and the universe.
 
-I've followed the subtle pulls of curiosity and growth to Northwestern University, where I am a National Science Foundation Graduate Research Fellow and Ph.D. candidate.
+I've followed the subtle pulls of curiosity and growth to Northwestern University, where I am a National Science Foundation Graduate Research Fellow.
 
 ### Scientific Research 
 My [research](/research) focuses on water-soluble nanoparticles, which we may be used for medical imaging or biological sensing.
