@@ -1,6 +1,6 @@
 ---
 # Display name
-name: James C. Schwabacher
+name: James C. Schwabacher, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D.
+role: Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
+- name: Beghou Consulting
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a scientist and educator in Chicago, IL.
+bio: I'm a scientist in Chicago, IL.
 
 interests:
 - Chemistry (Physical, Inorganic, Materials)
@@ -57,9 +57,9 @@ social:
   link: https://www.researchgate.net/profile/James_Schwabacher
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-James C. Schwabacher, Ph.D. is an NSF Graduate Research Fellow at Northwestern University. James' research experience spans materials, inorganic, and physical chemistry at the nanoscale. He applies his scientific thinking to improving science education through teaching-as-research projects. James remains heavily involved in designing and implementing the graduate teaching assistant training in his department. As the Co-founder of Northwestern's Chemistry Graduate Student Teachers and Treasurer of his department's Graduate Liaison Committee, James fosters communities and programming that break down institutional hierarchies to enact positive organizational change. [Learn more here.](/bio)
+James C. Schwabacher, Ph.D. is starting as a Consultant at Beghou Consulting after serving as an NSF Graduate Research Fellow at Northwestern University. James' research experience spans materials, inorganic, and physical chemistry at the nanoscale. James applied his scientific thinking while at Northwestern to improve science education through completing teaching-as-research projects, redesigning teaching assistant trainings, co-founding a teaching-focused community, and spearheading initiaitives with the Center for the Integration of Research, Teaching, and Learning. As a member of his department's Graduate Liaison Committee, James fostered communities and programming that broke down institutional hierarchies and enacted positive organizational change. [Learn more here.](/bio)
