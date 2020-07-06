@@ -6,7 +6,7 @@ I'm currently a Consultant with Beghou Consulting. I envision, plan, and carry o
 My love of science education quietly revealed itself to me while I led my classmates through an AP Chemistry solutions set in high school. I had always been interested in science, which provides my innate curiosity with an outlet, but I had not expected to find fulfillment in teaching others. I discovered that I could satisfy my otherwise insatiable desire for growth by helping others grow in their understanding of themselves and the universe. I followed the subtle pulls of curiosity and growth to Northwestern University, where I was a National Science Foundation Graduate Research Fellow.
 
 ### Scientific Research.
-My [research](/research) focused on water-soluble nanoparticles, which we may be used for medical imaging or biological sensing.
+My [research](/research) focused on water-soluble nanoparticles, which may be used for medical imaging or biological sensing.
 
 ### Teaching and education.
 Outside the lab, I was immersed in improving classrooms via scientific inquiry through the Center for the Integration of Research, Teaching, and Learning. This took many forms, such as completing and presenting a [Teaching-As-Research experiment](/teaching/teaching-as-research), or developing new curricula. I also worked with colleagues to design/conduct [teaching assistant training workshops](/teaching/training-gtas), advocate for evidenced-based changes to existing undergraduate curricula, and support a departmental commitment to pedagogy.
