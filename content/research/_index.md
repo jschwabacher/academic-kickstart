@@ -1,12 +1,12 @@
 ---
 title: "Research"  # Add a page title.
-summary: "J.C. Schwabacher's research projects."  # Add a page description.
+summary: "James C. Schwabacher's research projects."  # Add a page description.
 date: "2019-06-24T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
 ### Previously:
-My primary body of research was for my Ph.D. thesis--The Effects of Phase Transfers with Thiol Ligands on the Optical Properties of Water-Soluble Quantum Dots. My primary manuscript describes [the origin of the pH dependence of the emission of an aqueous quantum dot system](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b03619). (*Hitting a paywall? The full-text may be avialble [here](https://pubs.acs.org/articlesonrequest/AOR-vUemTZcSjtWyQRe658gU),* via *ACS Articles on Request.*)
+My primary body of research was for my Ph.D. thesis--[The Effects of Phase Transfers with Thiol Ligands on the Optical Properties of Water-Soluble Quantum Dots](https://www.proquest.com/docview/2447534194). My primary manuscript describes [the origin of the pH dependence of the emission of an aqueous quantum dot system](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b03619). (*Hitting a paywall? The full-text may be avialble [here](https://pubs.acs.org/articlesonrequest/AOR-vUemTZcSjtWyQRe658gU),* via *ACS Articles on Request.*)
 
 I also contributed to ["An introduction to ratchets in chemistry and biology"](https://doi.org/10.1039/C7MH00062F) and ["Properties of Quantum Dots Coupled to Plasmons and Optical Cavities"](https://doi.org/10.1063/1.5124392).
 
