@@ -10,7 +10,7 @@ My primary body of research was for my Ph.D. thesis--[The Effects of Phase Trans
 
 I also contributed to ["An introduction to ratchets in chemistry and biology"](https://doi.org/10.1039/C7MH00062F) and ["Properties of Quantum Dots Coupled to Plasmons and Optical Cavities"](https://doi.org/10.1063/1.5124392).
 
-Other research experience includes immunological clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01503), biomaterials for wastewater treatment, [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
+Other research experience includes immunological clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01503), [biomaterials for wastewater treatment](https://doi.org/10.1016/j.poly.2021.115297), [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
 
 <center>[Google Scholar Profile](https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en)</center>
 
