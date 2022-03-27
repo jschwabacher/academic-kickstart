@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "schwabacher@u.northwestern.edu"
+email = ""
 phone = ""
-address = ""
+#address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -104,6 +104,8 @@ plugins_js  = []
 ############################
 ## Advanced options       ##
 ############################
+
+media_dir = "img"
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
@@ -159,3 +161,14 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
