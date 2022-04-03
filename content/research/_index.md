@@ -1,7 +1,7 @@
 ---
 title: "Research"  # Add a page title.
 summary: "James C. Schwabacher's research projects."  # Add a page description.
-date: "2019-06-24T00:00:00Z"  # Add today's date.
+date: ""# Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
@@ -12,8 +12,10 @@ I also contributed to ["An introduction to ratchets in chemistry and biology"](h
 
 Other research experience includes immunological clinical trials, aqueous quantum dot syntheses, [nanoparticle-protein interactions in biological environments](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b01503), [biomaterials for wastewater treatment](https://doi.org/10.1016/j.poly.2021.115297), [protein-based gold nanoparticle syntheses](https://doi.org/10.1039/C7DT03275G), polymer synthesis for drug delivery, and antimicrobial compound synthesis.
 
-<center>[Google Scholar Profile](https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en)</center>
 
-<center>[ResearchGate Profile](https://www.researchgate.net/profile/James_Schwabacher)</center>
+[Google Scholar Profile](https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en)
 
-<center>[ORCID Profile](https://orcid.org/0000-0002-6078-0753)</center>
+[ResearchGate Profile](https://www.researchgate.net/profile/James_Schwabacher)
+
+[ORCID Profile](https://orcid.org/0000-0002-6078-0753)
+
