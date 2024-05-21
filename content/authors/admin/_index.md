@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Consultant
+role: Senior Consultant
 
 # Organizations/Affiliations
 organizations:
